@@ -1,0 +1,43 @@
+.t1{
+    color: blueviolet;
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    color:blue;
+    font-size: 50px;
+    text-align: center;
+}
+.t2{
+    color:darkblue
+
+
+}
+.t3{
+    color: darkgreen;
+}
+a{
+    color:red;
+}
+.conforto{
+    color: cornflowerblue;
+}
+.triste{
+    color: darkolivegreen;
+}
+.amo{
+    color: rgb(204, 0, 0);
+    text-align: center;
+}
+.poema{
+    color: gold;
+    font-style: oblique;
+    text-align: center;
+}
+img{
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    padding-left: 540px;
+}
